@@ -39,13 +39,15 @@ apt-get -y install php wget unzip
 ```
 git clone https://github.com/AlahadGul/Front-Hack-By-Gullkhan
 ```
+🧩 Step >3
 ```
 cd Front-Hack-By-Gullkhan
 ```
+🧩 Step >4
 ```
-bash Khan.sh
+bash khan.sh
 ```
-🧩 Step >3
+🧩 Step >5
 ## Clean logs & unnecessary files :
 
 ```
