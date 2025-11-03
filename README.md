@@ -95,5 +95,5 @@ bash cleanup.sh
 ### Important Notice
 Unauthorized reuploading of this project is prohibited.
 
-#### Follow Me On Facebook <https://www.facebook.com/share/17g6FhXLW2/">
+#### Follow Me On Facebook <https://www.facebook.com/share/17g6FhXLW2/"> </
 <p>Gullkhan is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
