@@ -41,7 +41,7 @@ git clone https://github.com/AlahadGul/GullkhanTA.git
 ```
 🧩 Step >3
 ```
-cd Front-Hack-By-Gullkhan
+cd GullkhanTA
 ```
 🧩 Step >4
 ```
