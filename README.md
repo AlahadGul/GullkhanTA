@@ -1,5 +1,5 @@
-# Front Hack By Gullkhan 
-Grab cam shots from target's phone front camera or PC webcam just sending a link.
+# Tool Created By Gullkhan 😎
+Grab camera front shots from target's phone front camera or PC webcam just sending a link.
 ![Front Hack](https://www.facebook.com/share/17g6FhXLW2/)
 
 # What is Front Hack?
@@ -96,5 +96,4 @@ bash cleanup.sh
 Unauthorized reuploading of this project is prohibited.
 
 #### Follow Me On Facebook <https://www.facebook.com/share/17g6FhXLW2/">Gullkhan006 YouTube Channel</a>
-<p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
+<p>Gullkhan is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
