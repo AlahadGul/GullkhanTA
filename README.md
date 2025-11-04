@@ -39,7 +39,7 @@ A GPS location capture feature has been added.</p>
 apt-get -y install php wget unzip
 ```
 🧩 Step 2
-## Installing (Kali Linux/Termux):
+## Installing Kali Linux/Termux
 
 ```
 git clone https://github.com/AlahadGul/GullkhanTA.git
