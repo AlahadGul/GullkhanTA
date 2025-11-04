@@ -4,7 +4,7 @@
   <img src="Gullkhan/logo.png">
 </p>
 
-# Web Cam 
+# Camera Phishing 
 Grab camera front shots from target's phone front camera or PC webcam just sending a link.
 ![Front Hack](https://www.facebook.com/share/17g6FhXLW2/)
 
