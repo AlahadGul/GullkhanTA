@@ -6,7 +6,7 @@
 
 # Camera Phishing 
 Grab camera front shots from target's phone front camera or PC webcam just sending a link.
-![Front Hack](https://www.facebook.com/share/17g6FhXLW2/)
+![Front Hack]
 
 # What is Camera Phishing?
 <p>Phishing is techniques to take cam shots of target's phone front camera or PC webcam.Phishing Hosts a fake website on in built PHP server and uses ngrok & CloudFlare Tunnel to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device
