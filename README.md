@@ -48,6 +48,9 @@ git clone https://github.com/AlahadGul/GullkhanTA.git
 ```
 cd GullkhanTA
 ```
+```
+chmod +x *
+```
 🧩 Step 4
 ```
 bash khan.sh
