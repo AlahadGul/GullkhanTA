@@ -51,11 +51,10 @@ cd GullkhanTA
 ```
 chmod +x *
 ```
-🧩 Step 4
 ```
 bash khan.sh
 ```
-🧩 Step 5
+🧩 Step 4
 ## Clean logs & unnecessary files :
 
 ```
